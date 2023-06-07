@@ -1,4 +1,4 @@
-The BSData data uses [Creative Commons CC0 No Rights Reserved license](https://creativecommons.org/publicdomain/zero/1.0/).
+The Self Driving Cars data uses [Creative Commons CC0 No Rights Reserved license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 **You are free to:**
 

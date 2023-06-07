@@ -12,7 +12,7 @@ from supervisely.io.fs import get_file_name, get_file_name_with_ext
 def convert_and_upload_supervisely_project(
     api: sly.Api, workspace_id: int, project_name: str
 ) -> sly.ProjectInfo:
-    dataset_path = "/Users/iwatkot/Downloads/ninja-datasets/BSData"
+    dataset_path = "/Users/iwatkot/Downloads/ninja-datasets/self-driving-cars/"
     batch_size = 30
     images_folder_name = "CameraRGB"
     masks_folder_name = "CameraSeg"
