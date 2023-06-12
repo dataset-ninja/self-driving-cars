@@ -2,7 +2,7 @@ If you make use of the Self Driving Cars data, please cite the following referen
 
 ```
 @misc{Self Driving Cars,
-	author = "TO BE FILLED MANUALLY!",
+	author = "Kumaresan",
 	title = "Self Driving Cars",
 	howpublished = "https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge"
 }
