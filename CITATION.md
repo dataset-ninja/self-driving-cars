@@ -1,10 +1,11 @@
-If you make use of the Self Driving Cars data, please cite the following reference (to be prepared after the challenge workshop) in any publications:
+If you make use of the Self Driving Cars data, please cite the following reference:
 
-```
-@misc{Self Driving Cars,
-	author = "Kumaresan",
-	title = "Self Driving Cars",
-	howpublished = "https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge"
+``` bibtex 
+@dataset{Self Driving Cars,
+	author={Kumaresan Manickavelu},
+	title={Semantic Segmentation for Self Driving Cars},
+	year={2018},
+	url={https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge}
 }
 ```
 
