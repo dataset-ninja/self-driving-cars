@@ -1,0 +1,1 @@
+**Self Driving Cars** dataset provides data images and labeled semantic segmentations captured via CARLA self-driving car simulator. The data was generated as part of the [Lyft Udacity Challenge](https://www.udacity.com/lyft-challenge) . This dataset can be used to train ML algorithms to identify semantic segmentation of cars, roads, etc.
