@@ -43,7 +43,21 @@ DOWNLOAD_ORIGINAL_URL: Optional[
     Union[str, dict]
 ] = "https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge/download?datasetVersionNumber=1"
 
-CLASS2COLOR: Optional[Dict[str, List[str]]] = None
+CLASS2COLOR: Optional[Dict[str, List[str]]] = {
+    "sky": [230, 25, 75],
+    "road": [60, 180, 75],
+    "tree": [255, 225, 25],
+    "sidewalk": [0, 130, 200],
+    "car": [245, 130, 48],
+    "pole": [145, 30, 180],
+    "road markings": [70, 240, 240],
+    "building": [240, 50, 230],
+    "street infrastructure": [210, 245, 60],
+    "fence": [250, 190, 212],
+    "wall": [0, 128, 128],
+    "traffic": [220, 190, 255],
+    "pedestrian": [170, 110, 40],
+}
 # If specific colors for classes are needed, fill this dict (e.g. {"class1": [255, 0, 0], "class2": [0, 255, 0]})
 
 PAPER: Optional[str] = None
