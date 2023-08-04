@@ -1,8 +1,8 @@
-Dataset **Self Driving Cars** can be downloaded in Supervisely format:
+Dataset **Self Driving Cars** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervise.ly/supervisely-supervisely-assets-public/teams_storage/j/V/sY/uu5UHdkCvlxExHxKNVgu9dBJyqto9AQKM0Lje15nSsY59M012EhB4cIu0WGzpBeIYkpL2G7LVgfYM7FEaxZjyJ6UyXiwJInNAbOMUHT9cJDkZSww51khInAwHKSn.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/c/x/vt/PbbPzWhiEmqTfdybcjfkFQHusd6vjCDoBa07Fgccf0g2IU97R6kOYk8Ir3KnkwQCCVs85Pw0vI3Cga9eTrIEEolKYH8oAW4BbPQF8sXn53czC7MMXfRg6GuHCifY.tar)
 
-As an alternative, it can be downloaded with dataset-tools package:
+As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
 pip install --upgrade dataset-tools
 ```
@@ -11,6 +11,8 @@ pip install --upgrade dataset-tools
 ``` python
 import dataset_tools as dtools
 
-dtools.download(dataset='Self Driving Cars', dst_dir='~/dtools/datasets/Self Driving Cars')
+dtools.download(dataset='Self Driving Cars', dst_dir='~/dataset-ninja/')
 ```
-The data in original format can be :link: [downloaded here](https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge/download?datasetVersionNumber=1)
+Make sure not to overlook the [python code example](https://developer.supervisely.com/getting-started/python-sdk-tutorials/iterate-over-a-local-project) available on the Supervisely Developer Portal. It will give you a clear idea of how to effortlessly work with the downloaded dataset.
+
+The data in original format can be [downloaded here](https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge/download?datasetVersionNumber=1)
