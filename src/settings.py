@@ -32,7 +32,7 @@ if RELEASE_DATE is None:
 
 HOMEPAGE_URL: str = "https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge"
 
-PREVIEW_IMAGE_ID: int = 235085
+PREVIEW_IMAGE_ID: int = 1770483
 
 GITHUB_URL: str = "https://github.com/dataset-ninja/self-driving-cars"
 
