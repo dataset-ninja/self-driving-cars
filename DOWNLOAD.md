@@ -1,6 +1,6 @@
 Dataset **Self Driving Cars** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/d/d/GS/iSDJ1YwftIGqF4RNox50au3A4Vs2QiYTCFATeYiwoUYsN8W9QCHUwQpIqQeADumQx1gHewRggyU4YE0LuWxrRyiBxehDmX9k4ZuH0EldN7nUxTMbmhzP0NK3i2tM.tar)
+ [Download](https://www.dropbox.com/scl/fi/tkb1fxxxqigkr5kvxuzzx/self-driving-cars-DatasetNinja.tar?rlkey=d73qxbqlbzusvwt508xh5od52&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
