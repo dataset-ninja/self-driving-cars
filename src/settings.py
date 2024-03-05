@@ -70,7 +70,7 @@ ORGANIZATION_NAME: Optional[Union[str, List[str]]] = None
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = None
 
 SLYTAGSPLIT: Optional[Dict[str, List[str]]] = None
-TAGS: List[str] = None
+TAGS: List[str] = ['simulation']
 
 ##################################
 ###### ? Checks. Do not edit #####
